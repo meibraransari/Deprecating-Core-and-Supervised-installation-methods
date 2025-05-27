@@ -19,6 +19,9 @@ Home Assistant is planning a big change! Starting with the **2025.12** release, 
 - **armhf** (32-bit ARM, e.g., Raspberry Pi 1)
 - **armv7** (32-bit ARM, e.g., Raspberry Pi 2)
 
+## ✍️ Blog URL
+- [Home Assistant Blog Post (May 22, 2025)]https://www.home-assistant.io/blog/2025/05/22/deprecating-core-and-supervised-installation-methods-and-32-bit-systems/)
+
 ## 📚 Architecture Discussions
 
 - [Drop support for the Home Assistant Core installation method](https://github.com/home-assistant/architecture/discussions/1197)
@@ -92,7 +95,6 @@ A: It’s recommended to upgrade your hardware to a supported 64-bit platform fo
 
 ## 📚 Additional Resources
 
-- [Home Assistant Blog Post (May 22, 2025)](https://www.home-assistant.io/blog/2025/05/22/deprecating-core-supervised-32bit/)
 - [Community Forums](https://community.home-assistant.io/)
 - [Website](https://www.home-assistant.io/)
 - [Blog](https://www.home-assistant.io/blog/)
