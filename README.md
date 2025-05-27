@@ -28,6 +28,9 @@ Home Assistant is planning a big change! Starting with the **2025.12** release, 
 - [Drop support for the Home Assistant Supervised installation method](https://github.com/home-assistant/architecture/discussions/1198)
 - [Drop support for the armhf architecture](https://github.com/home-assistant/architecture/discussions/1199)
 - [Drop support for the i386 architecture](https://github.com/home-assistant/architecture/discussions/1200)
+
+![Affected](./Assets/methods.png)
+
 ---
 
 ## 🗓️ Timeline
@@ -60,6 +63,7 @@ Home Assistant is planning a big change! Starting with the **2025.12** release, 
 
 If your setup uses Core or Supervised on 32-bit architectures, you will need to migrate.
 
+![Affected](./Assets/system-information.png)
 ---
 
 ## 🔄 Migration Guide
@@ -78,6 +82,7 @@ If your setup uses Core or Supervised on 32-bit architectures, you will need to 
 - 🛠️ **High maintenance costs** that no longer justify ongoing support  
 - 🚀 Focus on **future-proof, stable, and secure** systems for all users
 
+![Change](./Assets/analytics.png)
 ---
 
 ## ❓ FAQ
@@ -100,3 +105,15 @@ A: It’s recommended to upgrade your hardware to a supported 64-bit platform fo
 - [Blog](https://www.home-assistant.io/blog/)
 - [Home Assistant Developer Docs](https://developers.home-assistant.io/)
 ---
+
+### 💼 Connect with me 👇👇 😊
+
+- 🔥 [**Youtube**](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
+- ✍ [**Blog**](https://ibraransari.blogspot.com/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/ansariibrar/)
+- 👨‍💻 [**Github**](https://github.com/meibraransari?tab=repositories)
+- 💬 [**Telegram**](https://t.me/DevOpsinActionTelegram)
+- 🐳 [**Docker**](https://hub.docker.com/u/ibraransaridocker)
+
+# Hit the Star! ⭐
+***If you are planning to use this repo for learning, please hit the star. Thanks!***
