@@ -22,7 +22,7 @@ Home Assistant is planning a big change! Starting with the **2025.12** release, 
 - **armv7** (32-bit ARM, e.g., Raspberry Pi 2)
 
 ## ✍️ Blog URL
-- [Home Assistant Blog Post (May 22, 2025)]https://www.home-assistant.io/blog/2025/05/22/deprecating-core-and-supervised-installation-methods-and-32-bit-systems/)
+- [Home Assistant Blog Post (May 22, 2025)](https://www.home-assistant.io/blog/2025/05/22/deprecating-core-and-supervised-installation-methods-and-32-bit-systems/)
 
 ## 📚 Architecture Discussions
 
