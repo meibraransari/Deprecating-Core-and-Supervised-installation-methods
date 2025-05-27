@@ -64,7 +64,8 @@ services:
     hostname: homeassistant
     image: homeassistant/home-assistant:latest
     environment:
-      - TZ=Asia/Kolkata # get your Time Zone from - https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+      # Get your Time Zone from - https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+      - TZ=Asia/Kolkata 
     volumes:
       - ./config/home-assistant:/config #to store data locally.
     restart: unless-stopped
