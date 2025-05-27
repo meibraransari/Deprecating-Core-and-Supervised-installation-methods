@@ -49,7 +49,9 @@ Home Assistant is planning a big change! Starting with the **2025.12** release, 
   Ideal if you want a hassle-free experience!
 
 - **Home Assistant Container**  
-  A Docker-based installation for users who want more flexibility and control.
+  A Docker-based installation for users who want more flexibility and control. Home Assistant Container installations don’t have access to add-ons.
+
+![Affected](./Assets/containers.png)
 
 ---
 
