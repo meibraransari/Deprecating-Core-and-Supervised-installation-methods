@@ -48,10 +48,34 @@ Home Assistant is planning a big change! Starting with the **2025.12** release, 
   An all-in-one solution with full features, add-ons, and easiest setup.  
   Ideal if you want a hassle-free experience!
 
+  [Installation Guide](https://www.home-assistant.io/installation/)
+
 - **Home Assistant Container**  
   A Docker-based installation for users who want more flexibility and control. Home Assistant Container installations don’t have access to add-ons.
 
-- [Installation Guide](https://www.home-assistant.io/installation/)
+
+```bash
+# Create compose file
+nano compose.yaml
+
+services:
+  homeassistant:
+    container_name: homeassistant
+    hostname: homeassistant
+    image: homeassistant/home-assistant:latest
+    environment:
+      - TZ=Asia/Kolkata # get your Time Zone from - https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+    volumes:
+      - ./config/home-assistant:/config #to store data locally.
+    restart: unless-stopped
+    privileged: true
+    ports:
+      - '8123:8123'
+
+# Run homeassistant stack
+docker compose up -d
+```
+
 
 ![Affected](./Assets/containers.png)
 
