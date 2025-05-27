@@ -48,12 +48,12 @@ Home Assistant is planning a big change! Starting with the **2025.12** release, 
   An all-in-one solution with full features, add-ons, and easiest setup.  
   Ideal if you want a hassle-free experience!
 
-  [Installation Guide](https://www.home-assistant.io/installation/)
+  🏠⚙️ [Home Assistant Installation Guide](https://www.home-assistant.io/installation/) 🚀🔧
 
 - **Home Assistant Container**  
   A Docker-based installation for users who want more flexibility and control. Home Assistant Container installations don’t have access to add-ons.
 
-
+  # 🏠⚙️ Home Assistant Container Guide 🚀🔧
 ```bash
 # Create compose file
 nano compose.yaml
