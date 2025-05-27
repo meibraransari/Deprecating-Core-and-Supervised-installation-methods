@@ -104,10 +104,11 @@ A: It’s recommended to upgrade your hardware to a supported 64-bit platform fo
 
 ## 📚 Additional Resources
 
+- [Home Assistant Developer Docs](https://developers.home-assistant.io/)
 - [Community Forums](https://community.home-assistant.io/)
 - [Website](https://www.home-assistant.io/)
 - [Blog](https://www.home-assistant.io/blog/)
-- [Home Assistant Developer Docs](https://developers.home-assistant.io/)
+
 ---
 
 ### 💼 Connect with me 👇👇 😊
