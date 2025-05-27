@@ -10,6 +10,8 @@ Home Assistant is planning a big change! Starting with the **2025.12** release, 
 
 ## ❌ What’s Being Deprecated?
 
+![Affected](./Assets/methods.png)
+
 ### Installation Methods
 - **Home Assistant Core** (Python environment)
 - **Home Assistant Supervised** (Supervisor on your own OS)
@@ -28,8 +30,6 @@ Home Assistant is planning a big change! Starting with the **2025.12** release, 
 - [Drop support for the Home Assistant Supervised installation method](https://github.com/home-assistant/architecture/discussions/1198)
 - [Drop support for the armhf architecture](https://github.com/home-assistant/architecture/discussions/1199)
 - [Drop support for the i386 architecture](https://github.com/home-assistant/architecture/discussions/1200)
-
-![Affected](./Assets/methods.png)
 
 ---
 
