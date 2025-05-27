@@ -19,6 +19,12 @@ Home Assistant is planning a big change! Starting with the **2025.12** release, 
 - **armhf** (32-bit ARM, e.g., Raspberry Pi 1)
 - **armv7** (32-bit ARM, e.g., Raspberry Pi 2)
 
+## 📚 Architecture Discussions
+
+- [Drop support for the Home Assistant Core installation method](https://github.com/home-assistant/architecture/discussions/1197)
+- [Drop support for the Home Assistant Supervised installation method](https://github.com/home-assistant/architecture/discussions/1198)
+- [Drop support for the armhf architecture](https://github.com/home-assistant/architecture/discussions/1199)
+- [Drop support for the i386 architecture](https://github.com/home-assistant/architecture/discussions/1200)
 ---
 
 ## 🗓️ Timeline
